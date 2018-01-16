@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Title: EasyList Lithuania
-! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
+! Title: Lithuania Refined
+! Prisidėjo: Algimantas Margevičius, Mantas Malcius, SS
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
@@ -276,6 +276,21 @@ danguje.lt##A[href^="/component/banners/click/"] > IMG
 danielius.net##DIV[style="width: 80%; font-size: 12px; padding: 5px; border: 1px dashed #CCF5CC; background: #F0FCF0; margin: 0 auto;"]
 day.lt##[style="line-height: 25px; margin: 15px 8px 2px auto;"]
 degalines.orlenlietuva.lt##.addsBoxFirst
+@@|https://inbox.google.com/u/1/|$document
+@@|https://elektra.manogile.lt/MokejimuIstorija/SaskaitinisKlientas/MokejimuIstorija|$document
+https://www.manodienynas.lt/new/layout/js/blockadblock.js
+www.manodienynas.lt/new/layout/js/blockadblock.js
+||galt.hit.gemius.pl/xgemius.js
+www.cosmopolitan.lt##DIV[id="wallpaper"]
+www.manodienynas.lt##DIV[id="mdplus-popup-box"]
+www.delfi.lt##A[href="https://bit.ly/2BJ2J9l"]
+www.delfi.lt##A[id="ads-bottom-bar-ad"]
+www.delfi.lt##DIV[class="delfi-ads-block sticky-ad"]
+www.delfi.lt##DIV[class="delfi-ads-block"]
+www.delfi.lt##DIV[class="col-xs-3 right"]
+www.delfi.lt##DIV[id="ads-bottom-bar-container"]
+www.delfi.lt##DIV[class="footer-infoblock"]
+www.delfi.lt##IFRAME[src="https://www.alio.lt/infoNewFooter1200.html?group=adsiteplace_106"]
 delfi.lt###banner-box
 delfi.lt###glmr
 delfi.lt###kainu-medziokle
