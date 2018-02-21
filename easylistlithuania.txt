@@ -321,6 +321,7 @@ delfi.lt##[title="Uždaryti"]
 delfi.lt#?#div.container>div>a>img[alt="topsport"]
 ! delfio popupas uzknisanti topsporto reklama
 delfi.lt#?#div:-abp-properties(z-index:*;top:50%left:50%)
+delfi.lt#?#div.adform-adbox:-abp-properties(z-index:10000;width:1200px;height:67px;)
 democ.eu###uzdanga
 democ.eu##.fanai
 depiliacija.eu###products_page_container > *
