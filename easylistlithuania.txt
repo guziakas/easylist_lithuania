@@ -8,7 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
-
+||adform.net
 ||*.gemius.pl*
 ||ping.chartbeat.net/ping
 delfi.lt##.fa-window-close.fa
