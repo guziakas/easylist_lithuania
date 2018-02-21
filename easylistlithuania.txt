@@ -319,6 +319,8 @@ delfi.lt##IFRAME[src="https://www.delfi.lt/apps/banners/infoblock/prenumerata/ne
 delfi.lt##[style="position:fixed;top:50%;left:50%;margin:-250px 0 0 -450px;z-index:9999999991;"] *
 delfi.lt##[title="Uždaryti"]
 delfi.lt#?#div.container>div>a>img[alt="topsport"]
+! delfio popupas uzknisanti topsporto reklama
+delfi.lt#?#div:-abp-properties(z-index:*;top:50%left:50%)
 democ.eu###uzdanga
 democ.eu##.fanai
 depiliacija.eu###products_page_container > *
