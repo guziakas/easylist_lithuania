@@ -293,6 +293,7 @@ www.delfi.lt##DIV[class="col-xs-3 right"]
 www.delfi.lt##DIV[id="ads-bottom-bar-container"]
 www.delfi.lt##DIV[class="footer-infoblock"]
 www.delfi.lt##IFRAME[src="https://www.alio.lt/infoNewFooter1200.html?group=adsiteplace_106"]
+||g2.dcdn.lt/scms/?g=di.js*
 delfi.lt###banner-box
 delfi.lt###glmr
 delfi.lt###kainu-medziokle
